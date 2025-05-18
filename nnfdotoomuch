@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>ProdByNNF | Afrobeats Producer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>ProdByNNF</h1>
+            <p>Afrobeats Producer | Crafting Beats That Move You</p>
+        </div>
+    </header>
+
+    <section class="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>I'm ProdByNNF, an Afrobeats producer creating tracks that make you move. Explore my beats and contact me for licensing and collaborations.</p>
+        </div>
+    </section>
+
+    <section class="music">
+        <div class="container">
+            <h2>Listen to My Beats</h2>
+            <div class="music-links">
+                <a href="https://www.bandlab.com/nnf_do_too_much" target="_blank">BandLab</a>
+                <a href="https://www.instagram.com/nnfdotoomuch/" target="_blank">Instagram</a>
+            </div>
+        </div>
+    </section>
+
+    <section class="contact">
+        <div class="container">
+            <h2>Contact & Licensing</h2>
+            <p>For licensing or collaborations, reach out to me:</p>
+            <p>Email: <a href="mailto:nnfdotoomuchbiz@gmail.com">nnfdotoomuchbiz@gmail.com</a></p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 ProdByNNF | All Rights Reserved</p>
+        </div>
+    </footer>
+</body>
+</html>
